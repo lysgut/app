@@ -1,6 +1,4 @@
-# Civic Report - Reportes Urbanos
 
-# Diccionarios para almacenar datos
 reportes = {}
 prioridad = {"bache": "alta", "luz": "media", "agua": "alta", "basura": "media"}
 ubicaciones = {}
